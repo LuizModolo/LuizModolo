@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizModolo&show_icons=true&theme=merko&bg_color=#0b131c&title_color=#fca311&text_color=#e5e5e5&icon_color=#f4e409&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizModolo&show_icons=true&bg_color=#0b131c&title_color=#fca311&text_color=#e5e5e5&icon_color=#f4e409&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
