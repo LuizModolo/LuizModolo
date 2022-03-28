@@ -2,9 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/LuizModolo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizModolo&show_icons=true&include_all_commits=true&count_private=true&bg_color=#0b131c&title_color=#fca311&text_color=#e5e5e5&icon_color=#f4e409"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizModolo&langs_count=7&bg_color=#0b131c&title_color=#fca311&text_color=#e5e5e5&icon_color=#f4e409"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizModolo&show_icons=true&include_all_commits=true&count_private=true&bg_color=0b131c&title_color=fca311&text_color=e5e5e5&icon_color=f4e409"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizModolo&langs_count=7&bg_color=0b131c&title_color=fca311&text_color=e5e5e5&icon_color=f4e409"/>
 </div>
+  
+ <!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,6 +17,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
+-->
 
 <!--
 **LuizModolo/LuizModolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
