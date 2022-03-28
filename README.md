@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizModolo&show_icons=true&bg_color=#0b131c&title_color=#fca311&text_color=#e5e5e5&icon_color=#f4e409&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuizModolo&show_icons=true&bg_color=#0b131c&title_color=#fca311&text_color=#e5e5e5&icon_color=#f4e409&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuizModolo&repo=convoychat" />
+</a>
 
 <!--
 **LuizModolo/LuizModolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
