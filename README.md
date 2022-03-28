@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/LuizModolo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizModolo&show_icons=true&include_all_commits=true&count_private=true&bg_color=0b131c&title_color=fca311&text_color=e5e5e5&icon_color=f4e409"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizModolo&langs_count=7&bg_color=0b131c&title_color=fca311&text_color=e5e5e5&icon_color=f4e409"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LuizModolo&show_icons=true&include_all_commits=true&count_private=true&bg_color=0b131c&title_color=fca311&text_color=e5e5e5&icon_color=f4e409"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizModolo&bg_color=0b131c&title_color=fca311&text_color=e5e5e5&icon_color=f4e409"/>
 </div>
   
  <!--
